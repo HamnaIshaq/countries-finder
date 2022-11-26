@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/country-finder/static/css/main.e8d0050e.css",
+    "main.js": "/country-finder/static/js/main.d06c37e3.js",
+    "static/js/787.3d66670d.chunk.js": "/country-finder/static/js/787.3d66670d.chunk.js",
+    "index.html": "/country-finder/index.html",
+    "main.e8d0050e.css.map": "/country-finder/static/css/main.e8d0050e.css.map",
+    "main.d06c37e3.js.map": "/country-finder/static/js/main.d06c37e3.js.map",
+    "787.3d66670d.chunk.js.map": "/country-finder/static/js/787.3d66670d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d0050e.css",
+    "static/js/main.d06c37e3.js"
+  ]
+}
