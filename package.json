@@ -1,6 +1,6 @@
 {
   "name": "country-finder",
-  "homepage": "http://HamnaIshaq.github.io/country-finder",
+  "homepage": "http://HamnaIshaq.github.io/countries-finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
